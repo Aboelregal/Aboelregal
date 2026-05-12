@@ -29,13 +29,7 @@ AI Engineer focused on Machine Learning, Deep Learning, Computer Vision, NLP, LL
 
 ---
 
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAboElregal&show_icons=true&hide_border=true&theme=default&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboElregal&layout=compact&hide_border=true&theme=default)
-
----
-
+ 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AboElrega-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
