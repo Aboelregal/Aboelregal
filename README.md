@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AboElregal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
 [![Gmail](https://img.shields.io/badge/Gmail-ahmedaboelregal22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaboelregal22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Aboelregal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aboelregal)
-
 </div>
 
 ---
@@ -17,11 +15,6 @@
 > *"Building intelligent systems that bridge research and real-world impact."*
 
 I'm an **AI Engineer** passionate about crafting end-to-end intelligent solutions — from model architecture and training to production deployment. My work spans **Computer Vision**, **Large Language Models**, **Generative AI**, **RAG**, and **Multi-Agent Systems**.
-
-- 🎓 **B.Sc. in Artificial Intelligence** — Kafr Elsheikh University (CGPA: 3.4 | Graduation Project: **A – Excellent**)
-- 🏢 Currently enrolled in the **NTI Hire Ready Program – Computer Vision** @ Smart Village, Cairo
-- 📰 Graduation project **featured in *Elwatannews***, one of Egypt's prominent newspapers
-- 🌍 Based in **Egypt** | English: **B2**
 
 ---
 
