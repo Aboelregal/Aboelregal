@@ -1,220 +1,131 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║     ██████╗ ██╗    ██╗  ██████╗ ███████╗██╗              ║
-║     ██╔══██╗╚██╗  ██╔╝ ██╔═══██╗██╔════╝██║              ║
-║     ███████║ ╚████╔╝  ██║   ██║█████╗  ██║              ║
-║     ██╔══██║  ╚██╔╝   ██║   ██║██╔══╝  ██║              ║
-║     ██║  ██║   ██║    ╚██████╔╝███████╗███████╗          ║
-║     ╚═╝  ╚═╝   ╚═╝     ╚═════╝ ╚══════╝╚══════╝          ║
-║                                                           ║
-║          AI Engineer · Computer Vision · LLMs             ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+🧠;Computer+Vision+%7C+LLMs+%7C+Generative+AI;From+Research+to+Real-World+Impact+🚀;Multi-Agent+Systems+%7C+RAG+%7C+MLOps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20AboElregal&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20Generative%20AI&descAlignY=58&descColor=a0c4d8" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Ahmed%20AboElregal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
-[![Gmail](https://img.shields.io/badge/-ahmedaboelregal22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaboelregal22@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Aboelregal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aboelregal)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aboelregal&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AboElregal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
+[![Gmail](https://img.shields.io/badge/Gmail-ahmedaboelregal22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaboelregal22@gmail.com)
+ 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 🧠 About Me
 
-### `> whoami`
+> *"Building intelligent systems that bridge research and real-world impact."*
 
-```python
-class AhmedAboElregal:
-    name     = "Ahmed Mohamed AboElregal"
-    role     = "AI Engineer"
-    location = "Cairo, Egypt 🇪🇬"
-    degree   = "B.Sc. AI — Kafr Elsheikh University"
-    gpa      = "3.4 / 4.0  (B+)"
-    project  = "A — Excellent ⭐"
-    featured = "Published in Elwatannews 📰"
-
-    focus = [
-        "Computer Vision",
-        "Large Language Models",
-        "Generative AI",
-        "Agentic RAG Systems",
-        "Multi-Agent Architecture",
-    ]
-
-    currently = "NTI Hire Ready — Computer Vision @ Smart Village"
-    
-    def say_hi(self):
-        print("Let's build something intelligent together!")
-```
-
-<br clear="right"/>
-
+I'm an **AI Engineer** passionate about crafting end-to-end intelligent solutions — from model architecture and training to production deployment. My work spans **Computer Vision**, **Large Language Models**, **Generative AI**, **RAG**, and **Multi-Agent Systems**.
 ---
 
-## ⚡ Arsenal
+## ⚙️ Tech Stack
 
-<div align="center">
-
-### 🤖 Core AI & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+### 🤖 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFAB?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFAB?style=flat-square&logo=github&logoColor=black)
 
 ### 🧬 Generative & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-8B5CF6?style=for-the-badge&logoColor=white)
-![Meta Llama](https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-8B5CF6?style=flat-square&logo=stability-ai&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%203-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-### ⚙️ MLOps & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🗄️ Backend & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-</div>
-
----
-
-## 🔥 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 Smart Surveillance System
-![Stars](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Tech](https://img.shields.io/badge/YOLOv8%20+%20OpenCV-0a0a0a?style=flat-square)
-
-> Real-time AI surveillance with threat detection & scene understanding
-
-```
-✦ Human detection & multi-object tracking
-✦ Centroid Tracking algorithm
-✦ Loitering & Restricted Zone detection
-✦ Automated alerts + event logging
-✦ Optimized real-time inference pipeline
-```
-
-[`View Project →`](https://github.com/Aboelregal)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Agentic Knowledge Assistant
-![Stars](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Tech](https://img.shields.io/badge/LangChain%20+%20Llama3-0a0a0a?style=flat-square)
-
-> End-to-end Agentic RAG for intelligent document Q&A
-
-```
-✦ Multi-agent: Retrieval + QA agents
-✦ PDF/TXT ingestion & vector indexing
-✦ Semantic search via ChromaDB
-✦ Llama 3 (Groq) powered responses
-✦ Full-stack: FastAPI + Streamlit + Docker
-```
-
-[`View Project →`](https://github.com/Aboelregal)
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top" colspan="2">
-
-### 📱 Content Creators Assistant ✨ — *Graduation Project | Featured in Elwatannews 📰*
-![Stars](https://img.shields.io/badge/Grade-A%20Excellent-gold?style=flat-square)
-![Tech](https://img.shields.io/badge/PyTorch%20+%20Stable%20Diffusion%20+%20IBM%20Watson-0a0a0a?style=flat-square)
-
-> AI-powered mobile app automating end-to-end content creation workflows
-
-```
-🎵  Music Recommendation Engine ──────── 91% accuracy (deep learning + genre classification)
-🎨  Text-to-Image Generation ─────────── Stable Diffusion integration
-🎙️  Speech Pipelines ──────────────────── IBM Watson STT & TTS for automated captions/voiceovers
-🤖  AI Creator Bot ────────────────────── NLP-powered ideation, planning & creative workflows
-```
-
-[`View Project →`](https://github.com/Aboelregal)
-
-</td>
-</tr>
-</table>
+### 🗃️ Data & NLP
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=github&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=flat-square&logo=ibm&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aboelregal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboelregal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+### 🔍 [AI-Powered Smart Surveillance System](https://github.com/Aboelregal) &nbsp; `May 2026`
+> Real-time intelligent surveillance powered by deep learning and computer vision.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aboelregal&theme=tokyonight&hide_border=true" />
-</div>
+- 🎯 **Human detection & multi-object tracking** using **YOLOv8** + **Centroid Tracking**
+- 🚧 **Restricted Zone Monitoring** with automated alerts and event logging
+- 🏃 **Loitering Detection** for proactive threat identification
+- ⚡ Optimized **real-time inference pipeline** with screenshot capture & security logging
+
+`Python` `YOLOv8` `OpenCV` `PyTorch` `Real-time Inference`
+
+---
+
+### 🤖 [Agentic Knowledge Assistant](https://github.com/Aboelregal) &nbsp; `June 2026`
+> End-to-end Agentic RAG system for intelligent document Q&A.
+
+- 🧩 **Multi-agent architecture** with dedicated Retrieval and QA agents
+- 📚 Supports **PDF/TXT ingestion**, vector indexing, and semantic search via **ChromaDB**
+- 💬 Powered by **Llama 3 (Groq)** with source-grounded response generation
+- 🌐 Full-stack deployment with **FastAPI + Streamlit + Docker**
+
+`LangChain` `ChromaDB` `Llama 3` `FastAPI` `Streamlit` `Docker` `RAG`
+
+---
+
+### 📱 [Content Creators Assistant](https://github.com/Aboelregal) &nbsp; `July 2024` — *Graduation Project*
+> AI-powered mobile app automating content creation workflows. 📰 *Featured in Elwatannews*
+
+- 🎵 Deep learning **music recommendation system** with genre classification — **91% accuracy**
+- 🎨 **Text-to-image generation** via **Stable Diffusion**
+- 🎙️ **Speech-to-Text & Text-to-Speech** pipelines using **IBM Watson APIs**
+- 🤖 NLP-powered **AI Creator Bot** for ideation, planning & automated workflows
+
+`PyTorch` `Stable Diffusion` `IBM Watson` `NLP` `Deep Learning`
 
 ---
 
 ## 🏅 Certifications
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🍓  Powering Your Home Projects with Raspberry Pi              │
-│       Johns Hopkins University — Coursera                       │
-├─────────────────────────────────────────────────────────────────┤
-│  📡  Communications and High-Speed Signals with Raspberry Pi    │
-│       Johns Hopkins University — Coursera                       │
-├─────────────────────────────────────────────────────────────────┤
-│  🔌  Using Sensors With Your Raspberry Pi                       │
-│       Johns Hopkins University — Coursera                       │
-├─────────────────────────────────────────────────────────────────┤
-│  🛠️  Designing Hardware for Raspberry Pi Projects               │
-│       Johns Hopkins University — Coursera                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Certificate | Issuer |
+|---|---|
+| 🍓 Powering Your Home Projects with Raspberry Pi Specialization | Johns Hopkins — Coursera |
+| 📡 Communications and High-Speed Signals with Raspberry Pi | Johns Hopkins — Coursera |
+| 🔌 Using Sensors With Your Raspberry Pi | Johns Hopkins — Coursera |
+| 🛠️ Designing Hardware for Raspberry Pi Projects | Johns Hopkins — Coursera |
 
 ---
 
-## 🌐 Languages
+## 🌟 Highlights
 
-```
-Arabic ████████████████████  Native
-English █████████████████░░░  B2
-```
+<table>
+  <tr>
+    <td align="center">🧠</td>
+    <td><strong>End-to-End AI</strong> — From research & training to deployment & real-world impact</td>
+  </tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td><strong>Published in Elwatannews</strong> — Graduation project recognized nationally</td>
+  </tr>
+  <tr>
+    <td align="center">📐</td>
+    <td><strong>Multi-Agent Systems</strong> — Agentic RAG pipelines with LangChain & LLMs</td>
+  </tr>
+  <tr>
+    <td align="center">👁️</td>
+    <td><strong>Computer Vision Expert</strong> — YOLO, ViT, U-Net, Faster R-CNN, Mask R-CNN</td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-### ✨ Fun fact
+### 💬 Let's Build Something Intelligent
 
-> *"My graduation project was featured in one of Egypt's prominent newspapers — Elwatannews!"*
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaboelregal22@gmail.com)
 
-<br/>
-
-**Open to opportunities · Remote friendly · Based in Egypt 🇪🇬**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
-[![Email](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaboelregal22@gmail.com)
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
