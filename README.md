@@ -1,55 +1,43 @@
+# Ahmed-Aboelregal
 # Hi, I'm Ahmed AboElregal 👋
 
-AI Engineer focused on building end-to-end intelligent systems — from model training to real-world deployment.
+**AI Engineer · Machine Learning · Computer Vision **
 
-📍 Cairo, Egypt &nbsp;|&nbsp; 📧 ahmedaboelregal22@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-aboelregal)
-
----
-
-## About
-
-- 🎓 B.Sc. in Artificial Intelligence — Kafr Elsheikh University (GPA 3.4 | Graduation Project: **A – Excellent**)
-- 🏢 Currently in the **NTI Hire Ready Program – Computer Vision** @ Smart Village
-- 📰 Graduation project featured in **Elwatannews**, one of Egypt's leading newspapers
+AI Engineer focused on Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, Generative AI, and Data Science. Passionate about building end-to-end intelligent systems—from research and model training to deployment and real-world impact.
 
 ---
 
-## Skills
+## 🔧 Tech Stack
 
-**AI & ML** — PyTorch · TensorFlow · scikit-learn · HuggingFace  
-**Computer Vision** — YOLOv8 · OpenCV · Faster R-CNN · U-Net · Vision Transformers  
-**Generative & Agentic AI** — LangChain · Stable Diffusion · LLMs · RAG · Multi-Agent Systems  
-**MLOps & Backend** — FastAPI · Docker · Streamlit · REST APIs  
-**NLP & Data** — ChromaDB · Semantic Search · IBM Watson STT/TTS
+`Python` `PyTorch` `OpenCV` `YOLOv8` `HuggingFace` `Stable Diffusion` `LangChain` `FastAPI` `IBM Watson` `scikit-learn` `Docker`
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### 🔍 AI-Powered Smart Surveillance System
-Real-time surveillance using YOLOv8 and OpenCV with human detection, multi-object tracking, loitering detection, and restricted zone monitoring.  
-→ [View Project](https://github.com/Aboelregal)
+### 🎥 Intelligent Surveillance System
+> Real-time AI-powered surveillance using computer vision and deep learning for threat detection and scene understanding.
+- Object detection & tracking using YOLO-based models
+- Real-time video stream processing with OpenCV
+- Anomaly detection to flag suspicious activity automatically
 
-### 🤖 Agentic Knowledge Assistant
-End-to-end RAG system for document Q&A using LangChain, ChromaDB, and Llama 3 (Groq). Multi-agent architecture deployed with FastAPI, Streamlit, and Docker.  
-→ [View Project](https://github.com/Aboelregal)
-
-### 📱 Content Creators Assistant *(Graduation Project)*
-Mobile app with a music recommendation system (91% accuracy), Stable Diffusion text-to-image, IBM Watson speech pipelines, and an NLP-powered AI creator bot.  
-→ [View Project](https://github.com/Aboelregal)
-
----
-
-## Certifications
-
-- Raspberry Pi Specialization (×4) — Johns Hopkins University · Coursera
+### 📱 Content Creators Assistant
+> Mobile app delivering AI-powered solutions to boost productivity and automate content creation workflows.
+- 🎵 Deep learning music recommendation system with genre classification — **91% accuracy**
+- 🤖 AI Creator Bot for ideation, content planning, and creative assistance using NLP
+- 🎨 Stable Diffusion integration for high-quality text-to-image generation
+- 🎙️ Speech-to-Text & Text-to-Speech pipelines via IBM Watson APIs for automated captioning and AI voiceovers
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aboelregal&show_icons=true&theme=default&hide_border=true)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAboElregal&show_icons=true&hide_border=true&theme=default&hide=contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboElregal&layout=compact&hide_border=true&theme=default)
 
 ---
 
-*Open to opportunities · Remote friendly*
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AboElrega-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
+[![Gmail](https://img.shields.io/badge/Email-ahmedaboelregal22@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmedaboelregal22@gmail.com)
