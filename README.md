@@ -1,43 +1,78 @@
-# Ahmed-Aboelregal
-# Hi, I'm Ahmed AboElregal 👋
-
-**AI Engineer · Machine Learning · Computer Vision **
-
-AI Engineer focused on Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, Generative AI, and Data Science. Passionate about building end-to-end intelligent systems—from research and model training to deployment and real-world impact.
-
----
-
-## 🔧 Tech Stack
-
-`Python` `PyTorch` `OpenCV` `YOLOv8` `HuggingFace` `Stable Diffusion` `LangChain` `FastAPI` `IBM Watson` `scikit-learn` `Docker`
+@@ -47,77 +47,8 @@ I'm an **AI Engineer** passionate about crafting end-to-end intelligent solution
 
 ---
 
 ## 🚀 Featured Projects
+ 
 
-### 🎥 Intelligent Surveillance System
-> Real-time AI-powered surveillance using computer vision and deep learning for threat detection and scene understanding.
-- Object detection & tracking using YOLO-based models
-- Real-time video stream processing with OpenCV
-- Anomaly detection to flag suspicious activity automatically
+### 🔍 [AI-Powered Smart Surveillance System](https://github.com/Aboelregal) &nbsp; `May 2026`
+> Real-time intelligent surveillance powered by deep learning and computer vision.
 
-### 📱 Content Creators Assistant
-> Mobile app delivering AI-powered solutions to boost productivity and automate content creation workflows.
-- 🎵 Deep learning music recommendation system with genre classification — **91% accuracy**
-- 🤖 AI Creator Bot for ideation, content planning, and creative assistance using NLP
-- 🎨 Stable Diffusion integration for high-quality text-to-image generation
-- 🎙️ Speech-to-Text & Text-to-Speech pipelines via IBM Watson APIs for automated captioning and AI voiceovers
+- 🎯 **Human detection & multi-object tracking** using **YOLOv8** + **Centroid Tracking**
+- 🚧 **Restricted Zone Monitoring** with automated alerts and event logging
+- 🏃 **Loitering Detection** for proactive threat identification
+- ⚡ Optimized **real-time inference pipeline** with screenshot capture & security logging
+
+`Python` `YOLOv8` `OpenCV` `PyTorch` `Real-time Inference`
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 [Agentic Knowledge Assistant](https://github.com/Aboelregal) &nbsp; `June 2026`
+> End-to-end Agentic RAG system for intelligent document Q&A.
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAboElregal&show_icons=true&hide_border=true&theme=default&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboElregal&layout=compact&hide_border=true&theme=default)
+- 🧩 **Multi-agent architecture** with dedicated Retrieval and QA agents
+- 📚 Supports **PDF/TXT ingestion**, vector indexing, and semantic search via **ChromaDB**
+- 💬 Powered by **Llama 3 (Groq)** with source-grounded response generation
+- 🌐 Full-stack deployment with **FastAPI + Streamlit + Docker**
+
+`LangChain` `ChromaDB` `Llama 3` `FastAPI` `Streamlit` `Docker` `RAG`
 
 ---
 
-## 📫 Connect with Me
+### 📱 [Content Creators Assistant](https://github.com/Aboelregal) &nbsp; `July 2024` — *Graduation Project*
+> AI-powered mobile app automating content creation workflows. 📰 *Featured in Elwatannews*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AboElrega-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aboelregal)
-[![Gmail](https://img.shields.io/badge/Email-ahmedaboelregal22@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmedaboelregal22@gmail.com)
+- 🎵 Deep learning **music recommendation system** with genre classification — **91% accuracy**
+- 🎨 **Text-to-image generation** via **Stable Diffusion**
+- 🎙️ **Speech-to-Text & Text-to-Speech** pipelines using **IBM Watson APIs**
+- 🤖 NLP-powered **AI Creator Bot** for ideation, planning & automated workflows
+
+`PyTorch` `Stable Diffusion` `IBM Watson` `NLP` `Deep Learning`
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| 🍓 Powering Your Home Projects with Raspberry Pi Specialization | Johns Hopkins — Coursera |
+| 📡 Communications and High-Speed Signals with Raspberry Pi | Johns Hopkins — Coursera |
+| 🔌 Using Sensors With Your Raspberry Pi | Johns Hopkins — Coursera |
+| 🛠️ Designing Hardware for Raspberry Pi Projects | Johns Hopkins — Coursera |
+
+---
+
+## 🌟 Highlights
+
+<table>
+  <tr>
+    <td align="center">🧠</td>
+    <td><strong>End-to-End AI</strong> — From research & training to deployment & real-world impact</td>
+  </tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td><strong>Published in Elwatannews</strong> — Graduation project recognized nationally</td>
+  </tr>
+  <tr>
+    <td align="center">📐</td>
+    <td><strong>Multi-Agent Systems</strong> — Agentic RAG pipelines with LangChain & LLMs</td>
+  </tr>
+  <tr>
+    <td align="center">👁️</td>
+    <td><strong>Computer Vision Expert</strong> — YOLO, ViT, U-Net, Faster R-CNN, Mask R-CNN</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
